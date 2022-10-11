@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>channelFile/channelconfig.json</file>
+    </qresource>
+</RCC>
